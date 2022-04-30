@@ -882,7 +882,7 @@ h1.style4,
 h2.style4,
 h3.style4,
 p.style4 {
-    color: #314163;
+    color: #AD4211;
     font-family: 'Sora', sans-serif;
     letter-spacing: -0.1rem;
     width: 100%;
@@ -925,7 +925,7 @@ h2.style1,
 h3.style1,
 p.style1 {
     text-transform: uppercase;
-    color: #836EE6;
+    color: #FF5100;
     font-family: 'Sora', sans-serif;
     letter-spacing: 0.25rem;
     width: calc(100% + 0.25rem);
@@ -961,7 +961,7 @@ p.style1 mark {
 }
 
 #text13 {
-    color: #7284A6;
+    color: #C6683B;
     font-family: 'Inter', sans-serif;
     letter-spacing: 0.025rem;
     width: calc(100% + 0.025rem);
@@ -3526,13 +3526,13 @@ body.is-touch #container09 {
 }
 
 #buttons02 .button {
-    color: #836EE6;
-    border: solid 1px rgba(131, 110, 230, 0.141);
+    color: #EE743A;
+    border: solid 1px rgba(255, 94, 0, 0.141);
 }
 
 #buttons02 .button:hover {
-    color: #836EE6 !important;
-    border-color: #836EE6 !important;
+    color: #EE743A !important;
+    border-color: #EE743A !important;
 }
 
 .buttons.style1 {
@@ -4549,14 +4549,14 @@ form .actions button:disabled {
     }
 
     #container13>.wrapper>.inner {
-        text-align: left !important;
+        text-align: center !important;
     }
 
     #container13>.wrapper>.inner h1,
     #container13>.wrapper>.inner h2,
     #container13>.wrapper>.inner h3,
     #container13>.wrapper>.inner p {
-        text-align: inherit !important;
+        text-align: center !important;
     }
 
     #container13.columns>.wrapper>.inner {
@@ -4787,7 +4787,7 @@ form .actions button:disabled {
     }
 
     #container10>.wrapper>.inner {
-        text-align: left !important;
+        text-align: center !important;
     }
 
     #container10>.wrapper>.inner h1,
