@@ -3588,9 +3588,9 @@ body.is-touch #container09 {
 }
 
 .buttons.style1 .button {
-    background-color: #836EE6;
+    background-color: #484749;
     color: #FFFFFF;
-    background-image: linear-gradient(193deg, #9989FA 0%, rgba(131, 110, 230, 0.008) 100%);
+    background-image: linear-gradient(193deg, #ff8a2a 0%, rgba(131, 110, 230, 0.008) 100%);
     background-position: 0% 0%;
     background-repeat: repeat;
     background-size: cover;
@@ -3601,7 +3601,7 @@ body.is-touch #container09 {
 }
 
 .buttons.style1 .button:hover {
-    background-color: #715BD9 !important;
+    background-color: #d99e5b !important;
 }
 
 .icons {
@@ -4159,9 +4159,9 @@ form .actions button:disabled {
     border-radius: 2rem;
     justify-content: flex-end;
     flex-direction: row-reverse;
-    background-color: #836EE6;
+    background-color: #e69e6e;
     color: #FFFFFF;
-    background-image: linear-gradient(193deg, #9989FA 0%, rgba(131, 110, 230, 0.008) 100%);
+    background-image: linear-gradient(193deg, #fac089 0%, rgba(131, 110, 230, 0.008) 100%);
     background-position: 0% 0%;
     background-repeat: repeat;
     background-size: cover;
@@ -4183,7 +4183,7 @@ form .actions button:disabled {
 }
 
 #form01 .actions button:hover {
-    background-color: #715BD9;
+    background-color: #d9835b;
 }
 
 #form01 .actions button .label {
@@ -4415,9 +4415,9 @@ form .actions button:disabled {
     border-radius: 2rem;
     justify-content: flex-end;
     flex-direction: row-reverse;
-    background-color: #836EE6;
+    background-color: #484749;
     color: #FFFFFF;
-    background-image: linear-gradient(193deg, #9989FA 0%, rgba(131, 110, 230, 0.008) 100%);
+    background-image: linear-gradient(193deg, #faa989 0%, rgba(131, 110, 230, 0.008) 100%);
     background-position: 0% 0%;
     background-repeat: repeat;
     background-size: cover;
@@ -4439,7 +4439,7 @@ form .actions button:disabled {
 }
 
 #form03 .actions button:hover {
-    background-color: #715BD9;
+    background-color: #d9835b;
 }
 
 #form03 .actions button .label {
